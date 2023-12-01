@@ -6,6 +6,5 @@ body{
 button{
   size: 70px;
   width: 4rem;
-  justify-content: space-between;
   align-items: center; 
 }

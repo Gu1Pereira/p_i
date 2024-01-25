@@ -41,17 +41,18 @@ input{
     color: rgb(15, 15, 15);
 }
 
-.input-fild{
+.input-field{
 position: relative;
 margin-bottom: 20px;
 }
 
 label{
-    position: relative;
+    position: absolute;
     top: 0;
     left: 0;
     color: #000;
     transform: translateY(18px);
+    transition: .25s ease-in-out;
 }
 
 input:focus{

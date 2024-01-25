@@ -11,7 +11,7 @@ h1{
   
   
   body{
-    background-color: #566573 ;
+    background-color: #4b7ba8 ;
     background-image: url(arvore\ libras.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -31,7 +31,7 @@ h1{
   footer {
     margin-top: auto;
     height: 50px;
-    background-color: hwb(0 8% 91%);
+    background-color: hwb(0 20% 79%);
     text-align: center;
     padding: 20px;
   }
@@ -44,7 +44,7 @@ h1{
     width: 85px;
     height: 35px;
     border-radius: 0;
-    background-color: #7C5E99;
+    background-color: #1e1be2;
     border-radius: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #fff;

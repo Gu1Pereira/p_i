@@ -23,7 +23,7 @@ h2{
     margin: 20px;
 }
 
-.titulo{
+.Login{
 width: 350px;
 background-color: rgb(123, 159, 228);
 border-radius: 20% 0;
@@ -37,7 +37,7 @@ input{
     background: transparent;
     border: none;
     outline: none;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #080808;
     color: rgb(15, 15, 15);
 }
 
@@ -78,8 +78,8 @@ button{
     padding: 15px 50px;
     margin: 20px;
     background: transparent;
-    border: 2px solid #fff;
-    color: #fff;
+    border: 2px solid hsl(0, 0%, 3%);
+    color: rgb(8, 8, 8);
     text-transform: uppercase;
     border-radius: 20px;
     cursor: pointer;

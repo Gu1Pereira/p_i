@@ -1,8 +1,9 @@
 .conteudo{
+    display: flex;
     width: 970px;
     background-color: #5c5454;
-    justify-content: space-between;
-    align-items: start;
+    justify-content: center;
+    align-items: center;
     border-radius: 10px;  
     
     
@@ -22,6 +23,10 @@ p{
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.coluna-1{
+    display: flex;
+    justify-content: center;
+}
 
 .coluna-2{
     display: flex;
@@ -30,11 +35,6 @@ p{
     width: 30vh;
     margin-left: 165vh;
 }
-
-
-
-
-
 .footer{
 
     margin: 0 auto;

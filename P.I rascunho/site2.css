@@ -1,5 +1,5 @@
 .container{
-    width: 150vh;
+    width: 160vh;
     margin: 0 auto;
 }
 body{
@@ -31,7 +31,7 @@ body{
     gap: 32px;
 }
 .menu-navegacao a{
-    font-size: 18px;
+    font-size: 20px;
     color: #ffffff;
     padding-block: 16px;
 }
@@ -59,4 +59,20 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
     
+}
+.links{
+    justify-content: space-between;
+}
+image{
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: #5b4ffa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+a:hover{
+    color: black;
 }

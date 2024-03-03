@@ -25,9 +25,9 @@ h2{
 
 .Login{
 width: 350px;
-background-color: #7b9fe4;
-border-radius: 20% 0;
-box-shadow: 1px 2px 10px rgb(56, 43, 243), 3px 6px 20px rgb(53, 33, 238);
+background-color: #85aefa;
+border-radius: 10% 10%;
+box-shadow: 1px 2px 10px rgb(114, 105, 236), 3px 6px 20px rgb(126, 116, 218);
 padding: 50px 20px; 
 }
 
@@ -87,7 +87,7 @@ button{
 }
 
 button:hover{
-    background: rgb(64, 54, 204);
+    background: rgb(114, 106, 224);
 }
 
 .center{

@@ -14,8 +14,8 @@ body{
 .container{
     width: 500px;
     background-color: #7b9fe4;
-    border-radius: 10% 0;
-    box-shadow: 1px 2px 10px rgb(56, 43, 243), 3px 6px 20px rgb(53, 33, 238);
+    border-radius: 10% 10%;
+    box-shadow: 1px 2px 10px rgb(122, 114, 236), 3px 6px 20px rgb(120, 108, 233);
     padding: 50px 20px; 
 }
 .titulo{
@@ -75,7 +75,7 @@ button{
 }
 
 button:hover{
-    background: rgb(64, 54, 204);
+    background: #5a52c4;
 }
 .center{
     text-align: center;

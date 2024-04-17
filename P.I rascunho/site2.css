@@ -1,7 +1,7 @@
 .container{
     width: 120vh;
     margin: 0 auto;
-    flex-wrap: wrap;
+    
 }
 body{
     background-color: #ddc364;

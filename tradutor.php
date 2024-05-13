@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[nome do site]</title>
-    <link rel="stylesheet" href="tradutor.css">
+    <title>MAOS QUE FALAM</title>
+    <link rel="stylesheet" href="site2.css">
 </head> 
 
 <body>

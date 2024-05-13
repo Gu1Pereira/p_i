@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Quem sou eu</title>
-    <link rel="stylesheet" href="site2.css">
-</head>
-<body>
+<?php include "site2.php"?>
     <h1 class="titulo">Quem sou eu e qual era a ideia do site</h1>
     
     <div class="quem_sou">

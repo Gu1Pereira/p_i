@@ -9,5 +9,4 @@
     </div>    
     
     
-</body>
-</html>
+    <?php include "rodape.php"?>

@@ -1,6 +1,41 @@
+
 <?php include "cabecalho.php"?>
         
 <div class="banner">
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>libras</title>
+    <link rel="stylesheet" href="site2.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+           <a href="site2.html"><img src="imagens/libras-copia.png" alt=""></a>
+           
+           
+             <div class="home"> <!--menu hamburguer -->
+                <ul class="menu-navegacao">
+
+                    <li><a href="site2.html">Home</a></li>
+
+                    <li><a href="quem_sou.html" >Quem Sou</a></li>
+
+                    <li><a href="conta.html">Conta</a></li>
+                    <li><a href="tradutor.html" target="_blank">Traduzir</a></li>
+                    
+                    <li><a href="sobre.html" target="_blank" >Sobre </a></li>
+                  
+
+                </ul>
+            </div>
+        </header>
+        <div class="banner">
+
             <img src="imagens/.jpg" alt="">
         </div>
         <div class="conteudo">
@@ -55,6 +90,22 @@
                         Aprenda linguagem de sinais nos links abaixo:
 
                     </h6>
+
+
+                    <div class="links">
+                        <div class="imagem">    <a href="https://matricula.anhanguera.com/ead/curso-livre/comunicacao-em-libras/?utm_source=google&utm_medium=pmax&utm_campaign=rv_midia&utm_camp=21005911161&sellerId=7a9f9437-5d37-4dee-ace7-f8df61714f7d&gad_source=5&gclid=EAIaIQobChMIh6jttKfHhAMV7kFIAB3r7gLqEAAYAyAAEgKJ0fD_BwE" target="_blank"><img src="imagens/anhaguera-libras.png" alt=""></a>
+
+                        <a href="https://portal.uniasselvi.com.br/graduacao?gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T-r4B7Z9krvI_kEWH7RlEKZojM6NM2F4bHvvos5oDHIeg-62EOxJwsaAmRVEALw_wcB" target="_blank"><img src="imagens/uniasselvi-libras.png" alt=""></a> 
+                    
+                        <a href="https://estacio.br/cursos/graduacao/letras-libras-lingua-portuguesa-licenciatura" target="_blank"><img src="imagens/Estacio-libras.png" alt=""></a>
+                    
+                        <a href="https://www.ead.senac.br/cursos-livres/libras-basico/" target="_blank"><img src="imagens/senac libras.jpg" alt="" srcset=""></a>
+                        </div>       
+                    
+                        
+                    </div>  
+
+
                     
                 <div class="links">
                     <div class="imagem">    <a href="https://matricula.anhanguera.com/ead/curso-livre/comunicacao-em-libras/?utm_source=google&utm_medium=pmax&utm_campaign=rv_midia&utm_camp=21005911161&sellerId=7a9f9437-5d37-4dee-ace7-f8df61714f7d&gad_source=5&gclid=EAIaIQobChMIh6jttKfHhAMV7kFIAB3r7gLqEAAYAyAAEgKJ0fD_BwE"><img src="imagens/anhaguera-libras.png" alt=""></a>
@@ -70,12 +121,7 @@
                              
                 </div>  
 
+
                    
 
-                
-        </div>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-
-</body>
-</html
+<?php include "rodape.php"?>

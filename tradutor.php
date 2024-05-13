@@ -8,13 +8,15 @@
     <link rel="stylesheet" href="site2.css">
 </head> 
 
+    <title>[nome do site]</title>
+    <link rel="stylesheet" href="site2.css"></head> 
+
 <body>
 
     <h1>LB</h1>
-    <p>bem vindo [usuario], converta usas palavras para linguagem de sinais   </p>
+    <p>bem vindo [usuario], converta suas palavras para linguagem de sinais   </p>
     
 
-    <h2>Procurar Imagem</h2>
     <form action="buscar_imagem.php" method="post">
         <label for="palavra">Digite uma palavra:</label><br>
         <input type="text" id="palavra" name="palavra"><br><br>

@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="conta.css">
 </head>
 <body>
     
-    <div></div>
-    <nav></nav>
-    
+    <div class="titulo">Conta</div>
+  
 </body>
 </html>

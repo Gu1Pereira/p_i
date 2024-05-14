@@ -20,7 +20,7 @@
                     <li><a href="quem_sou.php" >Quem Sou</a></li>
                     <li><a href="conta.php">Conta</a></li>
                     <li><a href="tradutor.php">Traduzir</a></li>                   
-                    <li><a href="sobre.php">Sobre </a></li>
+                    <li><a href="sobre.php">Sobre</a></li>
                   
 
                 </ul>

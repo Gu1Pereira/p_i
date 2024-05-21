@@ -12,8 +12,10 @@
         <header class="header">
            <a href="site2.php"><img src="imagens/libras-copia.png" alt=""></a>
            
-           
-             <div class="home"> <!--menu hamburguer -->
+            <!-- <nav class="menu-hamburguer">
+                
+            </nav>
+            <nav class="home">
                 <ul class="menu-navegacao">
 
                     <li><a href="site2.php">Home</a></li>
@@ -21,8 +23,26 @@
                     <li><a href="conta.php">Conta</a></li>
                     <li><a href="tradutor.php">Traduzir</a></li>                   
                     <li><a href="sobre.php">Sobre</a></li>
-                  
-
                 </ul>
-            </div>
+            </anv> -->
+
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Página 1</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Página 2</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Página 3</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
         </header>

@@ -16,17 +16,13 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Conta</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Traduzir</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Sobre</a>
-                </li>
-            </ul>
+        
+
+            <a href="conta.php">Conta</a>
+
+            <a href="convercao.php">Traduzir</a>
+                           
+            <a href="sobre.php">Sobre</a>
+           
         </div>
         </header>
